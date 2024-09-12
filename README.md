@@ -1,6 +1,6 @@
 # Assignment 1: Explainable AI - Children's Book Adaptation
 
-Link to the book: https://www.childbook.ai/book/s/luna-and-max-the-mystery-of-the-confused-bots-iysy 
+Link to the book: https://www.childbook.ai/book/s/luna-and-max-the-mystery-of-the-confused-bots-iysy   
 Link to the reserach paper: https://www.sciencedirect.com/science/article/pii/S0167404823005096?ref=pdf_download&fr=RR-2&rr=8c1b095ac99c42aa
 
 ## 📚 What’s This About?
