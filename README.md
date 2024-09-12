@@ -23,6 +23,6 @@ In this book, Luna the wise owl and Max the clever fox are the heroes of Technov
 1. Simplify Complex Ideas: I wanted to make tough AI topics like xAI and adversarial attacks easy to understand for kids.  
 2. Engage and Educate: By telling a fun story, I would LOVE to introduce children to important AI concepts in a way that makes sense to them.
 
-## 🛠️ How I Made It
-Illustrations: I used an AI tool (Childbook.AI) to create the book’s illustrations, making sure they were both fun and informative.
+## 🛠️ How I Made It (Credits)
+Illustrations: I used an AI tool (Childbook.AI) to create the book’s illustrations, making sure they were both fun and informative.  
 Storytelling: I adapted the story to reflect the research paper’s ideas, breaking down complex concepts into a playful adventure!
