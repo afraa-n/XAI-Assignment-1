@@ -11,8 +11,8 @@ This story is inspired by the paper “When Explainability Turns into a Threat: 
 
 The research dives into how xAI tools, which are supposed to make AI decisions clear, can be manipulated to trick AI systems into making mistakes.
 
-Here’s what the story talks about:
-Explainable AI (xAI): AI systems that aim to make their decisions understandable to people.
+Here’s what the story talks about:   
+Explainable AI (xAI): AI systems that aim to make their decisions understandable to people.   
 Adversarial Attacks: Malicious tricks that change AI inputs to confuse the system and make it give wrong predictions.
 
 ## 📖 What’s the Story?
