@@ -1,9 +1,10 @@
 # Assignment 1: Explainable AI - Children's Book Adaptation
 
 Link to the book: https://www.childbook.ai/book/s/luna-and-max-the-mystery-of-the-confused-bots-iysy 
+Link to the reserach paper: https://www.sciencedirect.com/science/article/pii/S0167404823005096?ref=pdf_download&fr=RR-2&rr=8c1b095ac99c42aa
 
 ## 📚 What’s This About?
-Welcome to my project repo! Here, I’ve turned a complex research paper on Explainable AI (xAI) into a fun and engaging children’s book. This project was part of an assignment for my Explainable AI class, where I tried to simplify a tricky AI concept like adversarial attacks through storytelling.
+For this project, I've turned a complex research paper on Explainable AI (xAI) into a fun and engaging children’s book. This project was part of an assignment for my Explainable AI class, where I tried to simplify a tricky AI concept like adversarial attacks through storytelling.
 
 ## 🌟 Background
 This story is inspired by the paper “When Explainability Turns into a Threat: Using xAI to Fool a Fake News Detection Method”. 
